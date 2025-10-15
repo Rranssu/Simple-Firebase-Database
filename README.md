@@ -12,8 +12,6 @@ Perfect for learning, experimenting, or bootstrapping small apps. 🚀
 - [🧩 Installation](#-installation)
 - [🔧 Configuration](#-configuration)
 - [🧠 Usage](#-usage)
-- [📂 Project Structure](#-project-structure)
-- [🧾 Examples](#-examples)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -51,7 +49,7 @@ npm install
 ```
 ---
 
-##🔧 Configuration
+## 🔧 Configuration
 
 You’ll need to set up your Firebase credentials inside server.js (or .env if you prefer environment variables).
 ```bash
@@ -65,7 +63,7 @@ admin.initializeApp({
 ```
 ---
 
-##📝 Tips:
+## 📝 Tips:
 
 Replace the path/to/your-service-account.json with your actual credentials file.
 
@@ -82,7 +80,7 @@ node server.js
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! 🙌
 
